@@ -10,7 +10,6 @@ html {
 .banner {
   position: relative;
   overflow: hidden;
-  max-height: 24em;
 }
 
 .banner-content{
@@ -19,6 +18,7 @@ html {
   color: #ddc6c6;
   position: absolute;
   bottom: 0;
+  width: 100%;
 }
 
 .btn {
@@ -54,4 +54,26 @@ footer{
 
 footer p {
   color: #712039;
+}
+
+input {
+  border-color: #9EC6E2;
+}
+
+hr {
+  border-top: 2px solid #9EC6E2;
+}
+
+label {
+  color: #698EA7;
+}
+
+button {
+  background-color: #8BB1CB;
+  border: none;
+  color: #64869D;
+}
+
+.signup {
+  background-color: #F7FDFF;
 }
