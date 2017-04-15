@@ -1,0 +1,57 @@
+html {
+  font-family: "futura", sans-serif;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.banner {
+  position: relative;
+  overflow: hidden;
+  max-height: 24em;
+}
+
+.banner-content{
+  height: 13em;
+  background-color: rgba(0, 0, 0, .7);
+  color: #ddc6c6;
+  position: absolute;
+  bottom: 0;
+}
+
+.btn {
+  background-color: #712039;
+  border: none;
+  margin-left: 1em;
+  color: #cbb6b6;
+}
+
+.sec1 {
+  background-color: #f7fdff;
+}
+
+.sec2 {
+  background: #F6EAD5;
+}
+
+h2 {
+  color: #8bb1cb;
+}
+ p {
+  color: #64869D;
+ }
+
+ .btn-blue{
+  background-color: #8BB1CB;
+  color: #64869D;
+ }
+
+footer{
+  background-color: #6390AD;
+}
+
+footer p {
+  color: #712039;
+}
