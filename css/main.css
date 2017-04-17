@@ -77,3 +77,18 @@ button {
 .signup {
   background-color: #F7FDFF;
 }
+
+nav {
+  z-index: 3;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .computer {
+    order: 2;
+  }
+
+  .computer-text {
+    order: 1;
+  }
+}
