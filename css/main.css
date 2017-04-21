@@ -5,6 +5,11 @@ html {
 nav a {
   color: #712039;
   text-decoration: none;
+  background-color: #fff;
+}
+
+a {
+  border-radius: 5px;
 }
 
 nav a:hover {
