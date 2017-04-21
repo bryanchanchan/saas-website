@@ -125,19 +125,27 @@ nav a {
   .banner-content {
     position: absolute;
   }
-}
-
-@media only screen and (min-width: 90em) {
 
   .computer-text {
     text-align: left;
   }
 
+  .computertwo-text {
+    text-align: left;
+  }
   .wallet {
     text-align: left;
   }
 
-  .comuter-text {
+  .computerthree-text {
     text-align: left;
+  }
+
+  .tool-text {
+    text-align: left;
+  }
+
+  .computer {
+    margin-top: 3em;
   }
 }
