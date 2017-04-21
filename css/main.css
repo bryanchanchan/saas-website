@@ -103,6 +103,7 @@ main {
 header {
   background-color: #f7fdff;
 }
+
 @media only screen and (min-width: 38em) {
 
   .banner-content {
